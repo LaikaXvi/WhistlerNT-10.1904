@@ -20,11 +20,12 @@ With some help from a "Brawllux" on discord, Explorer has been properly configur
 ![Screenshot](/Explorer-Fixed(2000).PNG)
 
 Windows Watercolor Windowborders, Frames, And MSStyle all work, provided you nuke DWM somehow.
-![Screenshot](/Watercolor-Desktop.PNG)
+![Screenshot](/update-1-start.PNG)
+![Screenshot](/update-1-explorer.PNG)
 
 With Open-shell menu and RetroBar, you can recreate the whole desktop (though I have an added restart button and search box in my start menu. I cant live without search.)
 
-![Screenshot](/Watercolor-startmenu.PNG)
+![Screenshot](/Comparison.PNG)
 
 # In Progress:
 ClassicLogonShell theme.
