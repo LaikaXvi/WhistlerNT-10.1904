@@ -11,9 +11,8 @@ Ive learned a lot about Windows Window border composition, how themes work and h
 Ive spent 2 days making custom shutdown, logout, and restart Icons to match whistler's start menu Icons because the ones I pulled from the actual version weren't high resolution enough to work on modern windows.. SO I had to make my own. 
 
 # Whats done?
-Window Border/VisualStyle/MSStyle and Explorer theme.
-Taskbar
-Start menu
+Window Border/VisualStyle/MSStyle and Explorer theme,
+Taskbar, And start menu.
 
 # In Progress:
 ClassicLogonShell theme.
