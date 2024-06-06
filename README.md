@@ -25,7 +25,7 @@ Windows Watercolor Windowborders, Frames, And MSStyle all work, provided you nuk
 
 With Open-shell menu and RetroBar, you can recreate the whole desktop (though I have an added restart button and search box in my start menu. I cant live without search.)
 
-![Screenshot](/Comparison.PNG)
+![Screenshot](/comparison.png)
 
 # In Progress:
 ClassicLogonShell theme.
