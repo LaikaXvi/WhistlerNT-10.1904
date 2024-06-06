@@ -28,6 +28,9 @@ With Open-shell menu and RetroBar, you can recreate the whole desktop (though I 
 ![Screenshot](/comparison.png)
 
 # In Progress:
+
+General Explorer/UI/UX parity improvements
+User Account Control Prompts
 ClassicLogonShell theme.
 
 
