@@ -14,7 +14,12 @@ Ive spent 2 days making custom shutdown, logout, and restart Icons to match whis
 Window Border/VisualStyle/MSStyle and Explorer theme,
 Taskbar, And start menu.
 
+Windows Watercolor Windowborders, Frames, And MSStyle all work, provided you nuke DWM somehow.
 ![Screenshot](/Watercolor-Desktop.PNG)
+
+With Open-shell menu and RetroBar, you can recreate the whole desktop (though I have an added restart button and search box in my start menu. I cant live without search.)
+
+![Screenshot](/Watercolor-startmenu.PNG)
 
 # In Progress:
 ClassicLogonShell theme.
