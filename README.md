@@ -14,6 +14,11 @@ Ive spent 2 days making custom shutdown, logout, and restart Icons to match whis
 Window Border/VisualStyle/MSStyle and Explorer theme,
 Taskbar, And start menu.
 
+# UPDATE 1
+With some help from a "Brawllux" on discord, Explorer has been properly configured to mirror Windows 2000.
+
+![Screenshot](/Explorer-Fixed.PNG)
+
 Windows Watercolor Windowborders, Frames, And MSStyle all work, provided you nuke DWM somehow.
 ![Screenshot](/Watercolor-Desktop.PNG)
 
