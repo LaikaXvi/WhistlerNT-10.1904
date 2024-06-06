@@ -14,7 +14,7 @@ Ive spent 2 days making custom shutdown, logout, and restart Icons to match whis
 Window Border/VisualStyle/MSStyle and Explorer theme,
 Taskbar, And start menu.
 
-./Watercolor-Desktop.png
+/Watercolor-Desktop.PNG
 
 # In Progress:
 ClassicLogonShell theme.
