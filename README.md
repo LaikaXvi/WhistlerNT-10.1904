@@ -17,6 +17,7 @@ Taskbar, And start menu.
 # UPDATE 1
 With some help from a "Brawllux" on discord, Explorer has been properly configured to mirror Windows 2000.
 
+![Screenshot](Explorer-Update2_comparison.png)
 ![Screenshot](/Explorer-Fixed(2000).PNG)
 
 Windows Watercolor Windowborders, Frames, And MSStyle all work, provided you nuke DWM somehow.
