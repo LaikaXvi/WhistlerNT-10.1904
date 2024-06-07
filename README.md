@@ -33,6 +33,9 @@ General Explorer/UI/UX parity improvements
 User Account Control Prompts
 ClassicLogonShell theme.
 
+# Wallpaper (original file)
+![Image](/Watercolor.jpg)
+
 
 
 
